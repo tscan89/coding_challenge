@@ -108,6 +108,7 @@ Merge repositories within an organization from bitbucket and github (example):
 ## Possible unit test scenarios
 
 ```
-1. Mock non-200 response from bitbucket/github
-2. Mock missing expected data field from bitbucket/github
+1. Mock 200 response from bitbucket/github
+2. Mock non-200 response from bitbucket/github
+3. Mock missing expected data field from bitbucket/github
 ```
